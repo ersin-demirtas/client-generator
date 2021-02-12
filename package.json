@@ -1,6 +1,6 @@
 {
   "name": "ersin-demirtas-client",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Generate apps built with Next, Nuxt, Quasar, React, React Native, Vue or Vuetify for any API documented using Hydra or OpenAPI",
   "files": [
     "*.md",
